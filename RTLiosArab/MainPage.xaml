@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              FlowDirection="RightToLeft"
+             x:Class="RTLiosArab.MainPage">
+
+    <ScrollView BackgroundColor="White" FlowDirection="RightToLeft"    Orientation="Both">
+        <StackLayout Orientation="Horizontal" >
+            
+            <Frame HorizontalOptions="Start" HeightRequest="100" WidthRequest="100" BackgroundColor="Transparent" Padding="0" HasShadow="False" >
+                <Image
+                Source="dotnet_bot.png"
+                SemanticProperties.Description="Cute dot net bot waving hi to you!"
+                HeightRequest="80"
+                WidthRequest="80"
+                HorizontalOptions="Start" />
+
+            </Frame>
+            <Frame HorizontalOptions="Start" HeightRequest="100" WidthRequest="100" BackgroundColor="Transparent" Padding="0" HasShadow="False" >
+                <Image
+     Source="dotnet_bot.png"
+     SemanticProperties.Description="Cute dot net bot waving hi to you!"
+     HeightRequest="80"
+     WidthRequest="80"
+     HorizontalOptions="Start" />
+
+            </Frame>
+            <Frame HorizontalOptions="Start" HeightRequest="100" WidthRequest="100" BackgroundColor="Transparent" Padding="0" HasShadow="False" >
+                <Image
+     Source="dotnet_bot.png"
+     SemanticProperties.Description="Cute dot net bot waving hi to you!"
+     HeightRequest="80"
+     WidthRequest="80"
+     HorizontalOptions="Start" />
+
+            </Frame>
+            <Frame HorizontalOptions="Start" HeightRequest="100" WidthRequest="100" BackgroundColor="Transparent" Padding="0" HasShadow="False" >
+                <Image
+     Source="dotnet_bot.png"
+     SemanticProperties.Description="Cute dot net bot waving hi to you!"
+     HeightRequest="80"
+     WidthRequest="80"
+     HorizontalOptions="Start" />
+
+            </Frame>
+            <Frame HorizontalOptions="Start" HeightRequest="100" WidthRequest="100" BackgroundColor="Transparent" Padding="0" HasShadow="False" >
+                <Image
+     Source="dotnet_bot.png"
+     SemanticProperties.Description="Cute dot net bot waving hi to you!"
+     HeightRequest="80"
+     WidthRequest="80"
+     HorizontalOptions="Start" />
+
+            </Frame>
+            <Frame HorizontalOptions="Start" HeightRequest="100" WidthRequest="100" BackgroundColor="Transparent" Padding="0" HasShadow="False" >
+                <Image
+     Source="dotnet_bot.png"
+     SemanticProperties.Description="Cute dot net bot waving hi to you!"
+     HeightRequest="80"
+     WidthRequest="80"
+     HorizontalOptions="Start" />
+
+            </Frame>
+
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>
